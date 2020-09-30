@@ -62,6 +62,6 @@ int main() {
         cout << "No duplicates: UNIQUE";
     else
         cout << "Duplicates: NOT UNIQUE";
-
+    cout << endl;
     return 0;
 }
